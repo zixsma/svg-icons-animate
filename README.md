@@ -11,7 +11,7 @@
 ## Install
 ###### Bower
 ```
-Please wait...
+bower uninstall svg-icons-animate
 ```
 
 ## How to use
